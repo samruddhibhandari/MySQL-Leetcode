@@ -81,7 +81,7 @@ The main goals of this repository are to:
 
 You can find the original problems and my solutions on my **LeetCode profile**.
 
-**LeetCode:** [(https://leetcode.com/u/samruddhibhandari/)]
+**LeetCode:** (https://leetcode.com/u/samruddhibhandari/)
 
 ---
 
