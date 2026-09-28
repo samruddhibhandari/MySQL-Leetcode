@@ -79,6 +79,7 @@ MySQL-LeetCode/
 | [0196-delete-duplicate-emails](https://github.com/samruddhibhandari/MySQL-Leetcode/tree/main/0196-delete-duplicate-emails/) | Easy |
 | [0570-managers-with-at-least-5-direct-reports](https://github.com/samruddhibhandari/MySQL-Leetcode/tree/main/0570-managers-with-at-least-5-direct-reports/) | Medium |
 | [0577-employee-bonus](https://github.com/samruddhibhandari/MySQL-Leetcode/tree/main/0577-employee-bonus/) | Easy |
+| [1211-queries-quality-and-percentage](https://github.com/samruddhibhandari/MySQL-Leetcode/tree/main/1211-queries-quality-and-percentage/) | Easy |
 | [1378-replace-employee-id-with-the-unique-identifier](https://github.com/samruddhibhandari/MySQL-Leetcode/tree/main/1378-replace-employee-id-with-the-unique-identifier/) | Easy |
 | [1527-patients-with-a-condition](https://github.com/samruddhibhandari/MySQL-Leetcode/tree/main/1527-patients-with-a-condition/) | Easy |
 | [1667-fix-names-in-a-table](https://github.com/samruddhibhandari/MySQL-Leetcode/tree/main/1667-fix-names-in-a-table/) | Easy |
