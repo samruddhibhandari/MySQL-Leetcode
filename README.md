@@ -1,93 +1,72 @@
-# 📊 Pandas & SQL LeetCode
+# 🗄️ MySQL LeetCode Solutions
 
-A collection of my **LeetCode solutions for Pandas and SQL problems**, created to strengthen my skills in **data manipulation, querying, analysis, and problem-solving**.
+A collection of my **MySQL solutions to LeetCode SQL problems**, created to practice SQL querying, database concepts, and data analysis.
 
----
+This repository is part of my preparation for **Data Analyst roles and technical interviews**.
 
-## 🛠️ Technologies Used
+## 🛠️ Technology
 
-* 🐍 **Python**
-* 🐼 **Pandas**
-* 🗄️ **SQL**
-* 💻 **LeetCode**
+* MySQL
+* SQL
+* LeetCode
 
----
+## 📚 Topics Covered
 
-
-## 🐼 Pandas
-
-The Pandas section contains problems focused on:
-
-* DataFrame manipulation
-* Filtering and sorting
-* GroupBy operations
-* Aggregations
-* Merging and joining
-* Handling missing values
-* Data cleaning
-* Date and time operations
-* String operations
-* Data transformation
-
----
-
-## 🗄️ SQL
-
-The SQL section contains problems covering:
-
-* `SELECT` and `WHERE`
-* `GROUP BY` and `HAVING`
+* `SELECT` & `WHERE`
+* `GROUP BY` & `HAVING`
+* Aggregate Functions
 * `JOIN`
 * Subqueries
-* CTEs
-* Window Functions
+* Common Table Expressions (CTEs)
 * `CASE WHEN`
-* Aggregate Functions
-* Date Functions
+* Window Functions
 * String Functions
-* Ranking and filtering
-* Data analysis queries
+* Date & Time Functions
+* Sorting & Filtering
+* Ranking
+* Data Analysis Queries
 
----
+## 📂 Repository Structure
+
+```text
+MySQL-LeetCode/
+│
+├── Problem-1/
+│   ├── solution.sql
+│   └── README.md
+│
+├── Problem-2/
+│   ├── solution.sql
+│   └── README.md
+│
+├── Problem-3/
+│   ├── solution.sql
+│   └── README.md
+│
+└── README.md
+```
 
 ## 🎯 Goals
 
-The main goals of this repository are to:
-
-* Improve SQL problem-solving skills
-* Strengthen Pandas and Python fundamentals
-* Practice data manipulation and analysis
-* Prepare for technical interviews
-* Build consistency through regular problem solving
-* Maintain a record of my LeetCode journey
-
----
+* Improve MySQL and SQL skills
+* Strengthen query-writing and problem-solving abilities
+* Practice SQL patterns commonly used in interviews
+* Prepare for Data Analyst and other data-related roles
+* Maintain a record of my LeetCode SQL practice
 
 ## 📈 Progress
 
-| Category  | Problems Solved |
-| --------- | --------------- |
-| 🐼 Pandas | 🚧 Updating     |
-| 🗄️ SQL   | 🚧 Updating     |
-| **Total** | **🚧 Updating** |
+| Category          | Status         |
+| ----------------- | -------------- |
+| MySQL / SQL       | 🚧 In Progress |
+| LeetCode Problems | 🚧 In Progress |
 
-> This repository is continuously updated as I solve more problems.
-
----
+> This repository will be continuously updated as I solve more SQL problems.
 
 ## 🔗 LeetCode
 
-You can find the original problems and my solutions on my **LeetCode profile**.
-
-**LeetCode:** (https://leetcode.com/u/samruddhibhandari/)
+**LeetCode:**  https://leetcode.com/u/samruddhibhandari/
 
 ---
 
-## 📌 Note
-
-The solutions in this repository are primarily written for **learning and interview preparation**.
-Some problems may have multiple possible approaches, and the solutions here represent the approach I used while solving them.
-
----
-
-⭐ If you find this repository useful, feel free to star it!
+⭐ **Learning SQL one query at a time.**
