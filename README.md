@@ -84,6 +84,7 @@ MySQL-LeetCode/
 | [0577-employee-bonus](https://github.com/samruddhibhandari/MySQL-Leetcode/tree/main/0577-employee-bonus/) | Easy |
 | [0595-big-countries](https://github.com/samruddhibhandari/MySQL-Leetcode/tree/main/0595-big-countries/) | Easy |
 | [1211-queries-quality-and-percentage](https://github.com/samruddhibhandari/MySQL-Leetcode/tree/main/1211-queries-quality-and-percentage/) | Easy |
+| [1251-average-selling-price](https://github.com/samruddhibhandari/MySQL-Leetcode/tree/main/1251-average-selling-price/) | Easy |
 | [1378-replace-employee-id-with-the-unique-identifier](https://github.com/samruddhibhandari/MySQL-Leetcode/tree/main/1378-replace-employee-id-with-the-unique-identifier/) | Easy |
 | [1527-patients-with-a-condition](https://github.com/samruddhibhandari/MySQL-Leetcode/tree/main/1527-patients-with-a-condition/) | Easy |
 | [1581-customer-who-visited-but-did-not-make-any-transactions](https://github.com/samruddhibhandari/MySQL-Leetcode/tree/main/1581-customer-who-visited-but-did-not-make-any-transactions/) | Easy |
