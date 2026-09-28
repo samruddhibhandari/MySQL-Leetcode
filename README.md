@@ -87,5 +87,6 @@ MySQL-LeetCode/
 | [1527-patients-with-a-condition](https://github.com/samruddhibhandari/MySQL-Leetcode/tree/main/1527-patients-with-a-condition/) | Easy |
 | [1661-average-time-of-process-per-machine](https://github.com/samruddhibhandari/MySQL-Leetcode/tree/main/1661-average-time-of-process-per-machine/) | Easy |
 | [1667-fix-names-in-a-table](https://github.com/samruddhibhandari/MySQL-Leetcode/tree/main/1667-fix-names-in-a-table/) | Easy |
+| [1693-daily-leads-and-partners](https://github.com/samruddhibhandari/MySQL-Leetcode/tree/main/1693-daily-leads-and-partners/) | Easy |
 | [1757-recyclable-and-low-fat-products](https://github.com/samruddhibhandari/MySQL-Leetcode/tree/main/1757-recyclable-and-low-fat-products/) | Easy |
 <!---LeetCode Topics End-->
