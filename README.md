@@ -83,4 +83,5 @@ MySQL-LeetCode/
 | [1378-replace-employee-id-with-the-unique-identifier](https://github.com/samruddhibhandari/MySQL-Leetcode/tree/main/1378-replace-employee-id-with-the-unique-identifier/) | Easy |
 | [1527-patients-with-a-condition](https://github.com/samruddhibhandari/MySQL-Leetcode/tree/main/1527-patients-with-a-condition/) | Easy |
 | [1667-fix-names-in-a-table](https://github.com/samruddhibhandari/MySQL-Leetcode/tree/main/1667-fix-names-in-a-table/) | Easy |
+| [1757-recyclable-and-low-fat-products](https://github.com/samruddhibhandari/MySQL-Leetcode/tree/main/1757-recyclable-and-low-fat-products/) | Easy |
 <!---LeetCode Topics End-->
