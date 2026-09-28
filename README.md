@@ -78,4 +78,5 @@ MySQL-LeetCode/
 | ------- | ------- |
 | [0196-delete-duplicate-emails](https://github.com/samruddhibhandari/MySQL-Leetcode/tree/main/0196-delete-duplicate-emails/) | Easy |
 | [0570-managers-with-at-least-5-direct-reports](https://github.com/samruddhibhandari/MySQL-Leetcode/tree/main/0570-managers-with-at-least-5-direct-reports/) | Medium |
+| [1527-patients-with-a-condition](https://github.com/samruddhibhandari/MySQL-Leetcode/tree/main/1527-patients-with-a-condition/) | Easy |
 <!---LeetCode Topics End-->
