@@ -76,5 +76,6 @@ MySQL-LeetCode/
 ## Database
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0196-delete-duplicate-emails](https://github.com/samruddhibhandari/MySQL-Leetcode/tree/main/0196-delete-duplicate-emails/) | Easy |
 | [0570-managers-with-at-least-5-direct-reports](https://github.com/samruddhibhandari/MySQL-Leetcode/tree/main/0570-managers-with-at-least-5-direct-reports/) | Medium |
 <!---LeetCode Topics End-->
