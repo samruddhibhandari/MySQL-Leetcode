@@ -2,8 +2,6 @@
 
 A collection of my **LeetCode solutions for Pandas and SQL problems**, created to strengthen my skills in **data manipulation, querying, analysis, and problem-solving**.
 
-This repository contains solutions I have practiced while preparing for **Data Analyst / Data Science roles and technical interviews**.
-
 ---
 
 ## 🛠️ Technologies Used
