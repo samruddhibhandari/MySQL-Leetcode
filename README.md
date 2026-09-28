@@ -83,6 +83,7 @@ MySQL-LeetCode/
 | [1211-queries-quality-and-percentage](https://github.com/samruddhibhandari/MySQL-Leetcode/tree/main/1211-queries-quality-and-percentage/) | Easy |
 | [1378-replace-employee-id-with-the-unique-identifier](https://github.com/samruddhibhandari/MySQL-Leetcode/tree/main/1378-replace-employee-id-with-the-unique-identifier/) | Easy |
 | [1527-patients-with-a-condition](https://github.com/samruddhibhandari/MySQL-Leetcode/tree/main/1527-patients-with-a-condition/) | Easy |
+| [1661-average-time-of-process-per-machine](https://github.com/samruddhibhandari/MySQL-Leetcode/tree/main/1661-average-time-of-process-per-machine/) | Easy |
 | [1667-fix-names-in-a-table](https://github.com/samruddhibhandari/MySQL-Leetcode/tree/main/1667-fix-names-in-a-table/) | Easy |
 | [1757-recyclable-and-low-fat-products](https://github.com/samruddhibhandari/MySQL-Leetcode/tree/main/1757-recyclable-and-low-fat-products/) | Easy |
 <!---LeetCode Topics End-->
